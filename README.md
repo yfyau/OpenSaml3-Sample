@@ -4,6 +4,6 @@ A sample code for OpenSaml3
 
 Replace the configs in StaticConfig
 
-Build your own structure SAMLBuilder.buildResponse()
+Build your own structure in SAMLBuilder.buildResponse()
 
 Hope can help someone ~
